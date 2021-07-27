@@ -78,4 +78,7 @@ In **unsupervised learning**, there are no labels for the training data. A machi
 **Action:** For every state, an agent needs to take an action toward achieving its goal.
 
 
+**Exploration versus exploitation:** An agent should exploit known information from previous experiences to achieve higher cumulative rewards, but it also needs to explore to gain new experiences that can be used in choosing the best actions in the future.
+
+
 
