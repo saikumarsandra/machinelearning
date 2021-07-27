@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning buzz words
 
 **Bag of words**: A technique used to extract features from the text. It counts how many times a word appears in a document (corpus), and then transforms that information into a dataset.
 
@@ -60,6 +60,7 @@ In **supervised learning****, every training sample from the dataset has a corre
 
 ****Test dataset**: The data withheld from the model during training, which is used to test how well your model will generalize to new data.
 
+
 **Training dataset**: The data on which the model will be trained. Most of your data will be here.
 
 **Transformer**: A more modern replacement for RNN/LSTMs, the transformer architecture enables training over larger datasets involving sequences of data.
@@ -67,6 +68,11 @@ In **supervised learning****, every training sample from the dataset has a corre
 In **unlabeled data**, you don't need to provide the model with any kind of label or solution while the model is being trained.
 
 In **unsupervised learning**, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
+
+**Agent:** The piece of software you are training is called an agent. It makes decisions in an environment to reach a goal.
+**Environment:** The environment is the surrounding area with which the agent interacts.
+**Reward:** Feedback is given to an agent for each action it takes in a given state. This feedback is a numerical reward.
+**Action:** For every state, an agent needs to take an action toward achieving its goal.
 
 
 
