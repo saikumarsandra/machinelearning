@@ -70,8 +70,11 @@ In **unlabeled data**, you don't need to provide the model with any kind of labe
 In **unsupervised learning**, there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
 
 **Agent:** The piece of software you are training is called an agent. It makes decisions in an environment to reach a goal.
+
 **Environment:** The environment is the surrounding area with which the agent interacts.
+
 **Reward:** Feedback is given to an agent for each action it takes in a given state. This feedback is a numerical reward.
+
 **Action:** For every state, an agent needs to take an action toward achieving its goal.
 
 
